@@ -13,7 +13,7 @@ expose:
   - --v
   - 4
   config:
-    domain: cb-aps-poc-consumer-cc.jxaas.dev
+    domain: cb-aps-poc-consumer-zm.jxaas.dev
     exposer: Ingress
     http: "false"
     tlsacme: "true"
